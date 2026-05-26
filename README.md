@@ -1,2 +1,2 @@
-# PJ-PerformanceMetrics-Dashboard.io
+# PerformanceMetrics-Dashboard.io
 Dashboard to show Quarterly PJ Metrics
